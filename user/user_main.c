@@ -5,7 +5,7 @@
 
 #include "mem.h"
 #include "ESP8266wifi.h"
-#define request_http "GET https://api.thingspeak.com/update?api_key=9FZFDZ3FMG7BWWW3&field1=100000&field2=1000000 HTTP/1.0\r\n\r\n"
+#define request_http "GET https://api.thingspeak.com/update?api_key=xxxxDZ3FMG7BWWW3&field1=100000&field2=1000000 HTTP/1.0\r\n\r\n"
 os_timer_t test_timer;
 
 
